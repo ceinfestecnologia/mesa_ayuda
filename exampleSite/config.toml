@@ -29,7 +29,7 @@ weight = 1
 bg_image = "images/banner.jpg"
 placeholder = "Si tiene alguna duda, solo escriba la consulta."
 subtitle = "Obtenga respuestas a travéz del buscador"
-title = "Preguntas Frecuentes"
+title = "Preguntas frecuentes"
 [Languages.en.params.cta]
 content = "Escribanos un mensaje y nos comunicaremos pronto."
 enable = true
