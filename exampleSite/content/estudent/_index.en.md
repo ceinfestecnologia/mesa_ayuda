@@ -6,7 +6,7 @@ title = "Preguntas"
 type = "docs"
 
 +++
-\##### -¿Cómo ingreso a la plataforma?
+##### -¿Cómo ingreso a la plataforma?
 
 > 1. Solicita en tu colegio las credenciales de acceso asignadas
 
@@ -24,11 +24,11 @@ type = "docs"
 
 ##### 
 
-\#### ¿Cómo analizo los resultados obtenidos?
+#### ¿Cómo analizo los resultados obtenidos?
 
 >
 
-\#### -¿Cómo analizo los resultados obtenidos?
+#### -¿Cómo analizo los resultados obtenidos?
 
 > 
 
