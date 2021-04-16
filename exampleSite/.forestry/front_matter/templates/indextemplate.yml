@@ -19,3 +19,4 @@ fields:
   label: type
 pages:
 - exampleSite/content/estudent/_index.en.md
+- exampleSite/content/plantel/_index.en.md
