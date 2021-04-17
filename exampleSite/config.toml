@@ -15,6 +15,16 @@ weight = 1
 name = "Pruebas virtuales"
 parent = ""
 url = ""
+weight = "3"
+[[Languages.en.menu.main]]
+name = "Pruebas virtuales"
+parent = ""
+url = ""
+weight = ""
+[[Languages.en.menu.main]]
+name = "Pruebas virtuales"
+parent = ""
+url = ""
 weight = ""
 [[Languages.en.menu.main]]
 name = "Plantel"
