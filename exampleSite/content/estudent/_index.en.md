@@ -6,26 +6,26 @@ title = "Preguntas Estudiantes"
 type = "docs"
 
 +++
-##### ¿Cómo ingreso a la plataforma?
+###### ¿Cómo ingreso a la plataforma?
 
->1.Solicita en tu colegio las credenciales de acceso asignadas
+> 1. Solicita en tu colegio las credenciales de acceso asignadas
 
->2.Ingresar a la pagina [www.miltonochoa.com](http://www.miltonochoa.com) en la página principal
+> 2. Ingresar a la pagina [www.miltonochoa.com](http://www.miltonochoa.com) en la página principal
 
->3.Ingresa el usuario y contraseña en la ventana verde “consulte sus resultados”
+> 3. Ingresa el usuario y contraseña en la ventana verde “consulte sus resultados”
 
-##### ¿Cómo consulto mis resultados?
+###### ¿Cómo consulto mis resultados?
 
 ##### ![](/uploads/listado-notasestudiante.gif)
 
-##### ¿Cómo cambio mi contraseña de acceso a la plataforma?
+###### ¿Cómo cambio mi contraseña de acceso a la plataforma?
 
 ##### ![](/uploads/cambia-contrasena.gif)
 
 ##### 
 
-#### ¿Cómo analizo los resultados obtenidos?
+###### ¿Cómo analizo los resultados obtenidos?
 
-#### ¿Cómo analizo los resultados obtenidos?
+###### ¿Cómo analizo los resultados obtenidos?
 
 .
