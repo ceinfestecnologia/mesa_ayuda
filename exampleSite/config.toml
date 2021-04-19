@@ -15,11 +15,6 @@ weight = 1
 name = "Características "
 parent = "Pruebas virtuales"
 url = "Caracteristicas"
-weight = "2"
-[[Languages.en.menu.main]]
-name = "Soporte"
-parent = "Pruebas virtuales"
-url = "Soporte"
 weight = "1"
 [[Languages.en.menu.main]]
 name = "Pruebas virtuales"
