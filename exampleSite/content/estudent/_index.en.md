@@ -10,9 +10,9 @@ type = "docs"
 
 > 1. Solicita en tu colegio las credenciales de acceso asignadas
 
-> 2. Ingresar a la pagina [www.miltonochoa.com](http://www.miltonochoa.com) en la página principal
+> 1. Ingresar a la pagina [www.miltonochoa.com](http://www.miltonochoa.com) en la página principal
 
-> 3. Ingresa el usuario y contraseña en la ventana verde “consulte sus resultados”
+> 1. Ingresa el usuario y contraseña en la ventana verde “consulte sus resultados”
 
 ##### ¿Cómo consulto mis resultados?
 
@@ -26,6 +26,6 @@ type = "docs"
 
 ##### ¿Cómo analizo los resultados obtenidos?
 
-##### ¿Cómo analizo los resultados obtenidos?
+##### -¿Cómo cambio mi contraseña de acceso a la plataforma?
 
 .
