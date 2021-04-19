@@ -8,7 +8,7 @@ type = "docs"
 +++
 #### **¿Sabías que el desarrollo de las pruebas es offline?**
 
-Permite que puedas realizar la prueba con pocos recursos tecnológicos durante la aplicación, brindando estabilidad y rapidez en el desarrollo de la prueba. La siguiente gráfica te muestra el proceso
+Permite que puedas realizar la prueba con pocos recursos tecnológicos durante la aplicación, brindando estabilidad y rapidez en el desarrollo de la prueba. La siguiente gráfica te muestra el proceso.
 
 ![](/uploads/3.png)
 
