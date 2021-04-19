@@ -14,28 +14,13 @@ weight = 1
 [[Languages.en.menu.main]]
 name = "Soporte"
 parent = "Pruebas virtuales"
-url = "Soporte"
-weight = "1"
-[[Languages.en.menu.main]]
-name = "Soporte"
-parent = "Pruebas "
 url = ""
-weight = ""
+weight = "1"
 [[Languages.en.menu.main]]
 name = "Pruebas virtuales"
 parent = ""
 url = ""
 weight = "3"
-[[Languages.en.menu.main]]
-name = "Pruebas virtuales"
-parent = ""
-url = ""
-weight = ""
-[[Languages.en.menu.main]]
-name = "Pruebas virtuales"
-parent = ""
-url = ""
-weight = ""
 [[Languages.en.menu.main]]
 name = "Plantel"
 parent = "Servicios"
