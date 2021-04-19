@@ -26,6 +26,6 @@ type = "docs"
 
 ##### ¿Cómo analizo los resultados obtenidos?
 
-##### -¿Cómo cambio mi contraseña de acceso a la plataforma?
+##### 
 
 .
