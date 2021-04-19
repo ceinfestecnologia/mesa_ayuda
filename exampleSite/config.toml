@@ -33,7 +33,7 @@ url = ""
 weight = "3"
 [[Languages.en.menu.main]]
 name = "Servicios"
-parent = "Menú "
+parent = "Menú"
 url = "servicios"
 weight = "1"
 [[Languages.en.menu.main]]
