@@ -30,23 +30,13 @@ type = "docs"
 * Requieres conexión para ingresar al módulo del estudiante en **www.miltonochoa.com** e iniciar la prueba. El desarrollo de las preguntas y descargar de tu certificado de aplicación podrás realizarlo sin conexión a internet. Para enviar las respuestas será necesario nuevamente contar con conexión a Internet.
 * **¿Qué pasa si se va la luz y ya inicié el desarrollo de la prueba?**
 * Hemos desarrollo un mecanismo oﬄine para desarrollar la prueba cuando no se cuenta con conexión a Internet. En caso de iniciar la prueba y que ocurra un corte de luz que apague tu computadora continuarás con el desarrollo de la prueba.
-
-
 * **¿Qué pasa si mi conexión a Internet es intermitente?**
 * Nuestro mecanismo de aplicación Oﬄine permite que puedas desarrollar tu prueba sin conexión a Internet, pero antes de iniciarla se requiere de una conexión estable para que la descarga de la prueba a tu navegador sea exitosa, así mismo necesitarás volver a tener conexión al enviar la cadena de respuestas a nuestro sistema, en caso de lograr bajar el examen pero no poder enviar la cadena de respuestas, deberás enviar el certificado para subir tus resultados de manera manual.
-
-
 * **¿He terminado la prueba y aún me permite visualizar el botón para aplicar la prueba?**
 * La prueba cuenta con un periodo de disponibilidad para aplicación de la prueba, mientras esté activo se visualizará el botón. Asegúrate de descargar el certificado una vez termines la prueba y en caso de inconvenientes lo envíes a la empresa y podamos cargar tus respuestas de forma manual.
-
-
 * **¿Por qué mis resultados están publicados en un tiempo corto y en otra ocasión se demoran en ser publicados?**
 * Depende de la fecha de aplicación de la prueba. Si tu institución realiza la aplicación de acuerdo al cronograma nacional de aplicación la publicación se dará 8 días después mientras contamos con la mayor cantidad poblacional para ejecutar nuestro modelo estadístico.
-
-
 * **¿Cuentas con tu certificado y no tienes resultados en la plataforma www.miltonochoa.com?**
 * Envía el certificado a nuestro correo atencionalcliente@ceinfes.com o a nuestro WhatsApp 316 472 3787 indicando en el asunto tu usuario y Prueba (ejemplo: 999911101 Prueba 10). Una vez esté en nuestro poder procederemos a cargarlo manualmente y podrás consultar resultados 24 horas después.
-
-
-* **¿Cuáles son las causales de abandono de una prueba?** 
-*  La plataforma permite abandonar una prueba durante el desarrollo de las preguntas y se realizará una vez se acepte en la ventana de confirmación para abandonar. Una vez ocurra el abandono no se podrá volver a aplicar la prueba, pero podrás descargar el certificado y ver las respuestas hasta donde llegaste. Otra forma de abandono ocurre cuando aceptas las condiciones para iniciar, cierras el navegador sin desarrollar todas las preguntas y no vuelves a tener contacto con la prueba. En este caso no se podrá volver a aplicar el examen.
+* **¿Cuáles son las causales de abandono de una prueba?**
+* La plataforma permite abandonar una prueba durante el desarrollo de las preguntas y se realizará una vez se acepte en la ventana de confirmación para abandonar. Una vez ocurra el abandono no se podrá volver a aplicar la prueba, pero podrás descargar el certificado y ver las respuestas hasta donde llegaste. Otra forma de abandono ocurre cuando aceptas las condiciones para iniciar, cierras el navegador sin desarrollar todas las preguntas y no vuelves a tener contacto con la prueba. En este caso no se podrá volver a aplicar el examen.
