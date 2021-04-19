@@ -24,3 +24,4 @@ fields:
   label: type
 pages:
 - exampleSite/content/servicios/Estudiantes/preguntas.md
+- exampleSite/content/servicios/Plantel/preguntas-plantel.md
