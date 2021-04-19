@@ -26,6 +26,6 @@ type = "docs"
 
 ##### ¿Cómo analizo los resultados obtenidos?
 
-##### 
+##### ¿Un estudiante como restablece su contraseña de acceso a la plataforma?
 
 .
