@@ -28,7 +28,7 @@ url = "Caracteristicas"
 weight = "1"
 [[Languages.en.menu.main]]
 name = "Pruebas virtuales"
-parent = ""
+parent = "Menú"
 url = ""
 weight = "3"
 [[Languages.en.menu.main]]
@@ -43,7 +43,7 @@ url = "estudent"
 weight = "1"
 [[Languages.en.menu.main]]
 name = "Servicios"
-parent = ""
+parent = "Menú "
 url = ""
 weight = "1"
 [[Languages.en.menu.main]]
