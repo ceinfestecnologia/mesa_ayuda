@@ -20,7 +20,8 @@ type = "docs"
    * Si das clic en iniciar la prueba es porque tienes el tiempo suficiente para presentar la misma y empezará a correr el tiempo. Si cierras el navegador y aún cuentas con tiempo para resolver la prueba podrás continuar con la aplicación, en caso contrario, se cerrará porque el tiempo ha finalizado y no podrás terminar la prueba.
 
    #### **¿Por qué solicitamos limpiar caché?**
-   * Como la prueba se desarrolla de forma oﬄine en el navegador de tu computadora y cada semana estamos liberando nuevas mejoras a nuestra plataforma se debe limpiar el caché para que se actualice la versión que utilizas y se reduzcan los problemas de conexión entre tu computadora y nuestro servidor.
+
+   \* Como la prueba se desarrolla de forma oﬄine en el navegador de tu computadora y cada semana estamos liberando nuevas mejoras a nuestra plataforma se debe limpiar el caché para que se actualice la versión que utilizas y se reduzcan los problemas de conexión entre tu computadora y nuestro servidor.
 
    #### **¿Puedo resolver la prueba en navegadores diferentes al mismo tiempo?**
    * Abrir dos navegadores para presentar la prueba genera inconvenientes de conexión entre tu computadora y nuestro servidor. Además, ocasiona que las respuestas no sean enviadas y pierdas el tiempo de aplicación que has dedicado para resolver la prueba.
