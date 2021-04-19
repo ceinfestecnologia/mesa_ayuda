@@ -12,7 +12,7 @@ languageName = "En"
 parent = ""
 weight = 1
 [[Languages.en.menu.main]]
-name = "Menú "
+name = "Menú"
 parent = ""
 url = "/"
 weight = "2"
