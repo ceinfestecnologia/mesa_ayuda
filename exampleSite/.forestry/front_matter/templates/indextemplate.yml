@@ -18,6 +18,4 @@ fields:
   name: type
   label: type
 pages:
-- exampleSite/content/Caracteristicas/_index.en.md
-- exampleSite/content/Soporte/_index.en.md
 - exampleSite/content/servicios/servicios.md
