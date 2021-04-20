@@ -19,4 +19,5 @@ fields:
   label: type
 pages:
 - exampleSite/content/pruebasvirtuales/Características /_index.en.md
+- exampleSite/content/pruebasvirtuales/Soporte/_index.en.md
 - exampleSite/content/servicios/servicios.md
