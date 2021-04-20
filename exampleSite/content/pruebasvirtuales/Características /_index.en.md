@@ -6,21 +6,21 @@ title = "Características "
 type = "docs"
 
 +++
-¿Sabías que el desarrollo de las pruebas es offline?
+#### ¿Sabías que el desarrollo de las pruebas es offline?
 
-Rta Oﬄine, permite que puedas realizar la prueba con pocos recursos tecnológicos durante la aplicación, brindando estabilidad y rapidez en el desarrollo de la prueba. La siguiente gráfica te muestra el proceso.
+* Oﬄine, permite que puedas realizar la prueba con pocos recursos tecnológicos durante la aplicación, brindando estabilidad y rapidez en el desarrollo de la prueba. La siguiente gráfica te muestra el proceso.
 
 ![](/uploads/3.png)
 
-* ¿Qué es el certificado?
+#### ¿Qué es el certificado?
 
-Rta: es un archivo en formato PDF que genera la plataforma una vez el estudiante ha finalizado la aplicación de la prueba.
+* Es un archivo en formato PDF que genera la plataforma una vez el estudiante ha finalizado la aplicación de la prueba.
 
 ![](/uploads/4.png)
 
-* ¿Por qué es importante descargar este certificado?
+#### ¿Por qué es importante descargar este certificado?
 
-Rta: El certificado en realidad es tu hoja de respuestas y es de gran importancia ya que en caso de que ocurra algún error de conexión entre tu computador y nuestro servidor al momento de enviar tus respuestas, éste nos ayudará a realizarlo manualmente y será la única evidencia de que presentaste la prueba, por favor guárdalas en una carpeta.
+* El certificado en realidad es tu hoja de respuestas y es de gran importancia ya que en caso de que ocurra algún error de conexión entre tu computador y nuestro servidor al momento de enviar tus respuestas, éste nos ayudará a realizarlo manualmente y será la única evidencia de que presentaste la prueba, por favor guárdalas en una carpeta.
 
 \-presenta la prueba en 8 simples pasos
 
