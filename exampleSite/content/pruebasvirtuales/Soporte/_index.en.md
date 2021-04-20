@@ -8,7 +8,7 @@ type = "docs"
 +++
 #### ¿Dónde encuentro las pruebas virtuales a desarrollar?
 
-1. Ingresar a la pagina www.miltonochoa.com con las credenciales asignadas
+1. Ingresar a la pagina **www.miltonochoa.com** con las credenciales asignadas
 2. Seleccionar la opción “pruebas virtuales”
 
    ![](/uploads/2.png)
