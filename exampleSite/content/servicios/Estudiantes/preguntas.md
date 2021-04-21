@@ -19,7 +19,9 @@ weight = 1
 
 ##### ¿Cómo cambio mi contraseña de acceso a la plataforma?
 
-##### ![](/uploads/cambia-contrasena.gif)¿Cómo analizo los resultados obtenidos?  
+##### ![](/uploads/cambia-contrasena.gif)
+
+##### ¿Cómo analizo los resultados obtenidos?  
 {{< youtube [s4-hR-r2fjI](https://www.youtube.com/watch?v=s4-hR-r2fjI "https://www.youtube.com/watch?v=s4-hR-r2fjI")>}}
 
 ##### 
