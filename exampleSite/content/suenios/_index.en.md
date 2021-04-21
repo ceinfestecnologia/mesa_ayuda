@@ -6,4 +6,4 @@ description: Descripción y características del curso
 type: docs
 
 ---
-5000 sueños
+5000 sueños...
