@@ -21,9 +21,6 @@ weight = 1
 
 ##### ![](/uploads/cambia-contrasena.gif)
 
-##### ¿Cómo analizo los resultados obtenidos?  
-{{< youtube [s4-hR-r2fjI](https://www.youtube.com/watch?v=s4-hR-r2fjI "https://www.youtube.com/watch?v=s4-hR-r2fjI")>}}
+##### ¿Cómo analizo los resultados obtenidos?
 
-
-
-.
+{{< youtube s4-hR-r2fjI>}}
